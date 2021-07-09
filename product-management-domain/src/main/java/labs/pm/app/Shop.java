@@ -4,6 +4,11 @@ import java.math.BigDecimal;
 
 import labs.pm.model.Product;
 
+/**
+* {@code Shop} class represents an application that manages Products
+* @version 4.0
+* @author oracle
+*/
 public class Shop {
 
 	public static void main(String[] args) {
